@@ -1,0 +1,9 @@
+Use Case Diagram:https://drive.google.com/file/d/1HGBe1_OTkG_gOvjXSy7CK8vkbN7NsKMg/view?usp=drivesdk
+Activity Diagram:https://drive.google.com/file/d/1TEpMDp1glhr1YaNZUocD-MRR52SChXr4/view?usp=drivesdk
+Class Diagram:https://drive.google.com/file/d/1IzhsXRlQMqXutLvf26sCVSySlMjnKx0C/view?usp=drivesdk
+Object Diagram:https://drive.google.com/file/d/1hIXP_GmHSq5FUQkl7b10yrRocVqXdJTE/view?usp=drivesdk
+Sequence Diagram:https://drive.google.com/file/d/1U142hOKtbGmp1Glf-5W8Z_tfEERlXU05/view?usp=drivesdk
+Collaboration Diagram:https://drive.google.com/file/d/1zOG3tR03SFLnRd10_duZaDEzd6cKyIi7/view?usp=drivesdk
+Component Diagram:https://drive.google.com/file/d/17B1FId036IEgEExXhNxMwwWk0fT0WzHP/view?usp=drivesdk
+Deployment Diagram:https://drive.google.com/file/d/1XT0t9zN5SnSWzHm-zSkzA6v5KIxCm3Tg/view?usp=drivesdk
+Partially layered logical architecture Diagram:https://drive.google.com/file/d/1g1G_7ZCzsiMg0oV6LujcmJcNQ6iRqjnf/view?usp=drivesdk
