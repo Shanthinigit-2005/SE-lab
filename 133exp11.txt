@@ -1,0 +1,5 @@
+Use case diagram:https://drive.google.com/file/d/1eGYhUH1dm3POzBnIa9Qr2VSsBpd7Jgls/view?usp=drivesdk
+Activity diagram:https://drive.google.com/file/d/1aoNDA_AunXkh8RQ1ve0kRrujsXfJ8ZGU/view?usp=drivesdk
+Class diagram:https://drive.google.com/file/d/1nz7mJIX-_gnrCZMTtHyfhL-pzo5-P6HN/view?usp=drivesdk
+Sequence diagram:https://drive.google.com/file/d/1oxe-lo6daOWZBEuA8dpEsC5CIw6thAvg/view?usp=drivesdk
+Component diagram:https://drive.google.com/file/d/1ol8lWp0KwG9z6w8csmkeC9ZiQtiv6jx9/view?usp=drivesdk
